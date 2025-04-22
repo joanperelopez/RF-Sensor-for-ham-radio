@@ -22,6 +22,7 @@ For its construction, we will need all the materials shown in the photograph:
 The PAD. We will stick a circular piece of copper as shown in the photograph and solder a wire to it.
 
 ![WhatsApp Image 2025-04-22 at 13 17 36-2](https://github.com/user-attachments/assets/b005ac40-3e88-4f17-994c-f7a7aa9a7cc6)
+The RING. We will stick a 10mm-wide strip of copper in the shape shown in the photograph and solder a wire to it.
 
 ![WhatsApp Image 2025-04-22 at 13 17 36-3](https://github.com/user-attachments/assets/3e0a08bc-f556-4622-8769-ae4fc069abdc)
 
