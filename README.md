@@ -1,2 +1,2 @@
 # RF Sensor for ham radio
-A device that detect an RF field
+Not everything we amateur radio enthusiasts do is perfect, and that includes antennas and their proper matching to the transmission line. When impedance matching isn’t perfect, the well-known standing waves (SWR) occur. Another related phenomenon is the circulation of RF energy through the outer shield of the coaxial cable. The device I’m about to present to you serves to detect these currents.
