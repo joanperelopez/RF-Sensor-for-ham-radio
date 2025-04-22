@@ -49,5 +49,5 @@ Enjoy the sensor! But as for the return currents...
 
 
 ### Additional notes
-The device is very sensitive; I have managed to light the LED with just 1W of RF power. If you find the sensor is too sensitive, you can remove the RING or try making the PAD with a smaller surface area.
+The device is very sensitive; I have managed to light the LED with just 1W of RF power. If you find the sensor is too sensitive for your applications, you can remove the RING or try making the PAD with a smaller surface area.
 
