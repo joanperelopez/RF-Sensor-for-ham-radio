@@ -19,6 +19,7 @@ For its construction, we will need all the materials shown in the photograph:
 
   
 ![WhatsApp Image 2025-04-22 at 13 17 36](https://github.com/user-attachments/assets/054bf230-3a6d-43db-941f-1d2ccebcb96e)
+We will stick a circular piece of copper as shown in the photograph and solder a wire to it.
 
 ![WhatsApp Image 2025-04-22 at 13 17 36-2](https://github.com/user-attachments/assets/b005ac40-3e88-4f17-994c-f7a7aa9a7cc6)
 
