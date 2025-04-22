@@ -2,7 +2,8 @@
 Not everything we amateur radio enthusiasts do is perfect, and that includes antennas and their proper matching to the transmission line. When impedance matching isn’t perfect, the well-known standing waves (SWR) occur. Another related phenomenon is the circulation of RF energy through the outer shield of the coaxial cable. The device I’m about to present to you serves to detect these currents.
 
 
-![WhatsApp Image 2025-04-22 at 13 17 34](https://github.com/user-attachments/assets/603c564f-94e3-4539-a6ab-2c261f8310e6)
+![WhatsApp Image 2025-04-22 at 14 19 40](https://github.com/user-attachments/assets/94702528-c799-4383-bf07-ded4a5242057)
+
 This device does not require any kind of battery or power supply. It only needs to be brought close to a coaxial cable to detect the presence of RF.
 
 
