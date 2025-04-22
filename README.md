@@ -3,6 +3,9 @@ Not everything we amateur radio enthusiasts do is perfect, and that includes ant
 
 ![WhatsApp Image 2025-04-22 at 13 17 34](https://github.com/user-attachments/assets/603c564f-94e3-4539-a6ab-2c261f8310e6)
 
+![WhatsApp Image 2025-04-22 at 13 37 43](https://github.com/user-attachments/assets/18b63909-02d3-48c5-b2fd-46f7a3b35d5e)
+
+
 ![WhatsApp Image 2025-04-22 at 13 17 35-3](https://github.com/user-attachments/assets/b2566bcd-e129-43a3-b9cc-946e7c7f93e5)
 
 ![WhatsApp Image 2025-04-22 at 13 17 36](https://github.com/user-attachments/assets/054bf230-3a6d-43db-941f-1d2ccebcb96e)
