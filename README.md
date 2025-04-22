@@ -41,7 +41,9 @@ We solder the LED wires, the PAD, and the RING to the PCB, and we’ll almost be
 ![WhatsApp Image 2025-04-22 at 13 17 35-2](https://github.com/user-attachments/assets/5206b1d0-0f55-4383-a269-ac7e6a185ec4)
 You can now use your sensor. Set the transceiver to tune mode or CW so that it transmits a carrier. Press and hold the PTT or CW key, then place the sensor on the antenna's coaxial cable, as shown in the photograph. The LED lighting up will indicate the presence of RF on the cable's shield.
 
+Enjoy the sensor! But as for the return currents... 
+
+
 ### Additional notes
 If you find the sensor is too sensitive, you can remove the RING or try making the PAD with a smaller surface area.
 
-Enjoy the sensor! But as for the return currents... 
