@@ -4,7 +4,7 @@ Not everything we amateur radio enthusiasts do is perfect, and that includes ant
 
 ![WhatsApp Image 2025-04-22 at 14 19 40](https://github.com/user-attachments/assets/94702528-c799-4383-bf07-ded4a5242057)
 
-This device does not require any kind of battery or power supply. It only needs to be brought close to a coaxial cable to detect the presence of RF.
+This device does not require any kind of battery or power supply. It's a passive device which only needs to be brought close to a coaxial cable to detect the presence of RF.
 
 
 ![WhatsApp Image 2025-04-22 at 13 37 43](https://github.com/user-attachments/assets/18b63909-02d3-48c5-b2fd-46f7a3b35d5e)
