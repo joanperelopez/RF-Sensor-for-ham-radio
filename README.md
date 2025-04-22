@@ -18,7 +18,7 @@ For its construction, we will need all the materials shown in the photograph:
 - Plastic pieces to house all the sensor components. Use the .STL files included in the repository.
 - Four OA90 germanium diodes.
 - One 100nF ceramic capacitor. 
-- 1 LED diode.  
+- 1 red LED diode.  
 - A small PCB to solder the electronic components.  
 - Various connecting wires.
 
