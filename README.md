@@ -15,7 +15,7 @@ The labels PAD and RING appear in the schematic, which I will explain below.
 ![WhatsApp Image 2025-04-22 at 13 17 35-3](https://github.com/user-attachments/assets/b2566bcd-e129-43a3-b9cc-946e7c7f93e5)
 For its construction, we will need all the materials shown in the photograph:  
 - Copper adhesive tape.  
-- Plastic pieces to house all the sensor components.  
+- Plastic pieces to house all the sensor components. Use the .STL files included in the repository. 
 - 1 LED diode.  
 - A small PCB to solder the electronic components.  
 - Various connecting wires.
