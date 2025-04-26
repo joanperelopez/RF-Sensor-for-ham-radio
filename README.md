@@ -50,10 +50,13 @@ If you prefer, you can add some decoration to the sensor, such as your call sign
 
 Enjoy the sensor! But as for the return currents... 
 
+### Additional notes
+The device is very sensitive; I have managed to light the LED with just 1W of RF power. If you find the sensor is too sensitive for your applications, you can remove the RING or try making the PAD with a smaller surface area.
+
+
 ## Modification to version 2.0
 ![WhatsApp Image 2025-04-25 at 15 59 34](https://github.com/user-attachments/assets/03c2f459-ddb3-4d9f-be08-ff2b3a3f21b9)
 It includes a microammeter and a potentiometer that allows you to adjust the sensitivity. With this new version of the RF detector, we can take relative measurements.
 
-### Additional notes
-The device is very sensitive; I have managed to light the LED with just 1W of RF power. If you find the sensor is too sensitive for your applications, you can remove the RING or try making the PAD with a smaller surface area.
+
 
